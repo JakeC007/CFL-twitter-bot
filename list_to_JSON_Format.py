@@ -33,7 +33,8 @@ def main():
   indexN = len(outputN)-2
   indexV = len(outputV)-2
   indexAdv = len(outputAdv)-2
-
+  
+  #print desired output and copy from terminal
   print(outputN[0:indexN] + "]\n")
   print(outputV[0:indexV] + "]\n")
   print(outputAdv[0:indexAdv] + "]\n")
