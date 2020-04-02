@@ -1,5 +1,5 @@
 {
-	"origin": ["Update: computers are #AdjP# #connector# #V# #NP# "],
+	"origin": ["#start# #AdjP##connector# #V# #NP# "],
 	"lifehack":["lifehack!", "another lifehack", "super cool lifehack", "little known lifehack", "today's lifehack", "bonus lifehack"],
 	"VP": ["#V#","#V# #NP#", "#V# #NP# #PP#", "#V# #NP# #PP# #AdvP#"],
   	"PP": ["#P#", "#P# #NP#"],
@@ -12,5 +12,6 @@
  	"P": ["above", "across", "against", "along", "among", "around", "at", "before", "behind", "below", "beneath", "beside", "between", "by", "down", "from", "in", "into", "near", "of", "off", "on", "to", "toward", "under", "upon", "with", "within"],
  	"Adj": ["good", "new", "first", "last", "long", "great", "little", "own", "other", "old", "right", "big", "high", "different", "small", "large", "next", "early", "young", "important", "few", "public", "bad", "same", "able"],
 	"Adv": ["up", "so", "out", "just", "now", "how", "then", "more", "also", "here", "well", "only", "very", "even", "back", "there", "down", "still", "in", "as", "to", "when", "never", "really", "most", "on", "why", "about", "over", "again", "where", "right", "off", "always", "today", "all", "far", "long", "away", "yet", "often", "ever", "however", "almost", "later", "much", "once", "least", "ago", "together", "around", "already", "enough", "both", "maybe", "actually", "probably", "home", "of course", "perhaps", "little", "else", "sometimes", "finally", "less", "better", "early", "especially", "either", "quite", "simply", "nearly", "soon", "certainly", "quickly", "no", "recently", "before", "usually", "thus", "exactly", "hard", "particularly", "pretty", "forward", "ok", "clearly", "indeed", "rather", "that", "tonight", "close", "suddenly", "best", "instead", "ahead", "fast", "alone", "eventually", "directly"],
-	"connector": ["try not to", "please refrain from", ". Leave the #NP#", ". yee."]
+	"connector": [" try not to", " please refrain from", ". leave #Det# #NP#", ". yeehaw!"],
+	"start": ["Update: computers are", "Update: computers are", "Update: I am", "Update: computers are", "Update: computers are",  "Update: computers are", "Update: computers are",  "Update: the moon is", "Update: computers are",  "Update: computers are", "Update: computers are",  "Update: computers are", "Update: computers are",  "comrade, it is ", "Update: computers are"]
 }
