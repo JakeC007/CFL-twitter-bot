@@ -3,7 +3,7 @@
 	"lifehack":["lifehack!", "another lifehack", "super cool lifehack", "little known lifehack", "today's lifehack", "bonus lifehack"],
 	"VP": ["#V#","#V# #NP#", "#V# #NP# #PP#", "#V# #NP# #PP# #AdvP#"],
   	"PP": ["#P#", "#P# #NP#"],
-	"NP": ["#N#","#Det# #N#", "#Det# #AdjP# #N#", "#Det#", "#N#",  "#PP#"], 
+	"NP": ["#N#","#Det# #N#", "#Det# #AdjP# #N#", "#Det# #N# #PP#"], 
 	"AdvP": ["#Adv#", "#AdvP# #Adv#"],
 	"AdjP": ["#Adj#", "#AdvP# #Adj#"],
   	"V": ["be", "have", "do", "say", "go", "can", "get", "would", "make", "know", "will", "think", "take", "see", "come", "could", "want", "look", "use", "find", "give", "tell", "work", "may", "should", "call", "try", "ask", "need", "feel", "become", "leave", "put", "mean", "keep", "let", "begin", "seem", "help", "talk", "turn", "start", "might", "show", "hear", "play", "run", "move", "like", "live", "believe", "hold", "bring", "happen", "must", "write", "provide", "sit", "stand", "lose", "pay", "meet", "include", "continue", "set", "learn", "change", "lead", "understand", "watch", "follow", "stop", "create", "speak", "read", "allow", "add", "spend", "grow", "open", "walk", "win", "offer", "remember", "consider", "appear", "buy", "wait", "serve", "die", "send", "expect", "build", "stay", "fall", "reach", "remain"],
