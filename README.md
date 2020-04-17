@@ -16,10 +16,10 @@ The PS rules I implemented are here enumerated below
  
  These rules are then combined into the following simple TP strctures:
  
- TP1             |  TP2
+ TP<sup>1</sup>             |  TP<sup>2</sup>
 :-------------------------:|:-------------------------:
 ![](https://github.com/JakeC007/CFL-twitter-bot/blob/master/resources/img/TP1.png)  |  ![](https://github.com/JakeC007/CFL-twitter-bot/blob/master/resources/img/TP2.png)
  
- [[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+
 
 Obviously there are more complex PS rules, but tweets have a chracter limit and the more complex the rule I make the less likley the tweet will be under the char limit. Hence the rules I choose. 
