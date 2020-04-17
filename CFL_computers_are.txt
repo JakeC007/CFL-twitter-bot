@@ -15,3 +15,11 @@
 	"connector": [" try not to", " please refrain from", ". leave #Det# #NP#", ". yeehaw!"],
 	"start": ["Update: computers are", "Update: computers are", "Update: I am", "Update: computers are", "Update: computers are",  "Update: computers are", "Update: computers are",  "Update: the moon is", "Update: computers are",  "Update: computers are", "Update: computers are",  "Update: computers are", "Update: computers are",  "comrade, it is ", "Update: computers are"]
 }
+
+//todo
+get V and V_modal, V_aux
+if I had a T-node just one V_aux or 1 V_modal
+
+T (V_modal or nothing) [will, would, should, may, must, can, might, could, || V_aux: was has, ] //just use the modals
+V [
+
