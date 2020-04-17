@@ -16,7 +16,7 @@ The PS rules I implemented are here enumerated below
  
  These rules are then combined into the following simple TP strctures:
  
- TP<sub>1</sub>             |  TP<sup>2</sup>
+ TP<sub>1</sub>             |  TP<sub>2</sub>
 :-------------------------:|:-------------------------:
 ![](https://github.com/JakeC007/CFL-twitter-bot/blob/master/resources/img/TP1.png)  |  ![](https://github.com/JakeC007/CFL-twitter-bot/blob/master/resources/img/TP2.png)
  
