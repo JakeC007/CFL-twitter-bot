@@ -22,4 +22,4 @@ The PS rules I implemented are here enumerated below
  
 
 
-Obviously there are more complex PS rules, but tweets have a character limit and the more complex the rule I make the less likley the tweet will be under the character limit. Hence the rules I chose. 
+Obviously there are more complex PS rules, but tweets have a character limit and the more complex the rule I make the less likely the tweet will be under the character limit. Hence the rules I choose.
